@@ -22,7 +22,7 @@ AI-powered platform for crop yield prediction, disease detection, and farming re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rohanpawar2510/Crop-yield-prediction.git
+git clone https://github.com/Pranaysatpute/crop-yield-prediction.git
 cd Crop-yield-prediction
 ```
 
@@ -200,3 +200,4 @@ Crop-yield-prediction/
 | Recommendations return fallback data | Add a valid `GEMINI_API_KEY` to `backend/.env` |
 | Port already in use | Change the port: backend via `PORT` in `.env`, frontend in `vite.config.js` |
 | `Dataset not found` on training | Ensure `notebooks/Final_Agriculture_Dataset_V2.csv` exists in the repository |
+
